@@ -155,7 +155,7 @@ The site is a standard Next.js application and can be deployed to any platform t
 
 ### Deploying to Vercel
 
-This project includes Vercel Analytics and Speed Insights. To deploy to Vercel:
+This project is includes Vercel Analytics and Speed Insights. To deploy to Vercel:
 
 1. **One-click deploy:**
 
